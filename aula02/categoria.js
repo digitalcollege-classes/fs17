@@ -1,5 +1,14 @@
 function listar() {
-
+    return [
+        {
+            nome: "Chiquim",
+            cidade: "Caucaia",
+            telefones: [
+                "85 9 8123-1234",
+                "85 9 8123-4875",
+            ]
+        }        
+    ];
 }
 
 function add() {

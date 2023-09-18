@@ -20,3 +20,5 @@ SHOW TABLES;
 
 -- Detalhes da estrutura da tabela --
 DESC tb_lab;
+
+
